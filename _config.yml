@@ -1,20 +1,24 @@
 # Site
-name: "fashionliteracy"
+name: "Fashion Literacy"
 title: "Fashion Literacy"
-description: "A website for education in Fashion"
+description: "A leading website on Fashion education"
+#TODO 
 logo: 'assets/images/logo.png'
+#TODO 
 favicon: 'assets/images/logo.png'
-baseurl: /
-google_analytics: ''
-disqus: ''
-mailchimp-list: ''
+#baseurl: "/"
+google_analytics: 'UA-46278016-1'
+disqus: 'fashion-literacy'
+
+#TODO
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
   admin:
-    name: Jitendra Singh
+    name: Fashion Literacy
     display_name: Admin
     gravatar: ''
     email: info@fashionliteracy.com
