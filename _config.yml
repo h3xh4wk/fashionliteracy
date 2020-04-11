@@ -5,7 +5,7 @@ description: "A leading website on Fashion education"
 logo: 'assets/images/fl.png'
 #TODO 
 favicon: 'assets/images/fl.ico'
-#baseurl: '/'
+baseurl: '/'
 google_analytics: 'UA-73097965-1'
 disqus: 'fashion-literacy'
 
