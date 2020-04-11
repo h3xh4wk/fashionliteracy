@@ -10,7 +10,7 @@ google_analytics: 'UA-73097965-1'
 disqus: 'fashion-literacy'
 
 #TODO
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://feedburner.google.com/fb/a/mailverify?uri=Fashion_Literacy&loc=en_US'
 include: ["_pages"]
 permalink: /:title/
 
