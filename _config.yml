@@ -2,12 +2,11 @@
 name: "Fashion Literacy"
 title: "Fashion Literacy"
 description: "A leading website on Fashion education"
+logo: 'assets/images/fl.png'
 #TODO 
-logo: 'assets/images/logo.png'
-#TODO 
-favicon: 'assets/images/logo.png'
-#baseurl: "/"
-google_analytics: 'UA-46278016-1'
+favicon: 'assets/images/fl.ico'
+baseurl: /blog
+google_analytics: 'UA-73097965-1'
 disqus: 'fashion-literacy'
 
 #TODO
