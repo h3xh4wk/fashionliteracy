@@ -11,16 +11,6 @@ products and their use"
 #hidden: true
 rating: 4.5
 ---
-<<<<<<< HEAD
-====
-
-=======
-<<<<<<< HEAD
-====
-
-=======
->>>>>>> update blog with one more gdtopic related to branded vs not branded, and hide the post where image might be of conflict
->>>>>>> prev
 
 Brand vs no brand; has always been a matter of fashion debate. One the one
 hand, some of us feel that using branded products adds to our personality. One
