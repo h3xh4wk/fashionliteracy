@@ -8,7 +8,7 @@ image: assets/images/interns.jpg
 description: "A list of project topics for Garment internships for college
 students"
 #featured: true
-#hidden: true
+hidden: true
 rating: 4
 ---
 
