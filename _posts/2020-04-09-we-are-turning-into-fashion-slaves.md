@@ -9,7 +9,7 @@ description: "GD Topic with points in favour and in against of whether we are
 turning into fashion slaves"
 featured: true
 hidden: true
-rating: 4.5
+# rating: 4.5
 ---
 
 

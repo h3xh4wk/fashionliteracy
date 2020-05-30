@@ -9,7 +9,7 @@ description: "A post on introduction to 3D printing for students, who do not
 know about the technology"
 featured: true
 hidden: true
-rating: 4.5
+# rating: 4.5
 ---
 
 Do you need a dress for the party this weekend? So many cool websites we have

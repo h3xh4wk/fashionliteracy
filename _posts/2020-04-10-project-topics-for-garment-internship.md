@@ -9,7 +9,7 @@ description: "A list of project topics for Garment internships for college
 students"
 #featured: true
 hidden: true
-rating: 4
+# rating: 4
 ---
 
 This is the time when students are looking for project topics for their fashion

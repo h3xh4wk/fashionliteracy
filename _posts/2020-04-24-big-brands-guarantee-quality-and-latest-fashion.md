@@ -9,7 +9,7 @@ description: "A post presenting points in favor and against the branded
 products and their use"
 #featured: true
 #hidden: true
-rating: 4.5
+# rating: 4.5
 ---
 
 Brand vs no brand; has always been a matter of fashion debate. One the one

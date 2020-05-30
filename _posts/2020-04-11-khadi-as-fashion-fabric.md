@@ -8,7 +8,7 @@ image: assets/images/khadi.jpg
 description: "GD Topic with points in favour and in against of Khadi fabric"
 #featured: true
 #hidden: true
-rating: 3.5
+# rating: 3.5
 ---
 
 ## Points in against of the topic
